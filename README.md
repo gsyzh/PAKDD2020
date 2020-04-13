@@ -1,4 +1,4 @@
-#**天池--PAKDDPAKDD 2020 阿里巴巴智能运维算法大赛**
+**天池--PAKDDPAKDD 2020 阿里巴巴智能运维算法大赛** 
 
 给定一段连续采集(天粒度)的硬盘状态监控数据（Self-Monitoring, Analysis, and Reporting Technology; often written as SMART)以及故障标签数据，参赛者需要自己提出方案，按天粒度判断每块硬盘是否会在未来30日内发生故障。例如，可以将预测故障问题转化为传统的二分类问题，通过分类模型来判断哪些硬盘会坏；或者可以转化为排序问题，通过Learning to rank的方式判断硬盘的损坏严重程度等。
 
