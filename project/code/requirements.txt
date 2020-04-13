@@ -1,0 +1,10 @@
+所使用的依赖
+操作系统版本：win10专业版
+Python的版本 ：3.7
+:需要安装的Python package
+joblib --0.13.2
+lightgbm -- 2.3.0
+numpy -- 1.16.5
+pandas -- 0.25.1
+scipy --1.3.1
+sklearn -- 0.22.2.post1
