@@ -40,15 +40,15 @@
 
 ​	**|--clf.pkl**  模型文件
 
-​	**|--code.py  **预测代码
+​	**|--code.py**  预测代码
 
 ​	**|--run.sh**	执行文件
 
-​    **|--DockerFile**	Docker	
+​ **|--DockerFile**	Docker	
 
 ​	**|--dataprocessing.py**	特征工程及数据预处理
 
-​    **|--model.py**	模型训练
+​ **|--model.py**	模型训练
 
 #### 0、解决方案及算法介绍
 
